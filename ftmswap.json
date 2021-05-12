@@ -183,6 +183,14 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212.png"
     },
     {
+      "name": "CzTears",
+      "address": "0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC",
+      "symbol": "CzTears",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x907f1A48918Bb5DE07c12443CAB0e6EEfCC611BC.png"
+    },
+    {
       "name": "Popsicle finance",
       "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
       "symbol": "ICE",

@@ -39,6 +39,14 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E.png"
     },
     {
+      "name": "Binance Coin",
+      "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454.png"
+    },
+    {
       "name": "Staked FTM",
       "address": "0x69c744D3444202d35a2783929a0F930f2FBB05ad",
       "symbol": "sFTM",

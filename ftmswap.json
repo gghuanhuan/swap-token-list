@@ -237,6 +237,14 @@
       "decimals": 0,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
+    },
+    {
+      "name": "eSwapping",
+      "address": "0x735aBE48e8782948a37C7765ECb76b98CdE97B0F",
+      "symbol": "ESWAP",
+      "decimals": 0,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x735aBE48e8782948a37C7765ECb76b98CdE97B0F.png"
     }
   ]
 }

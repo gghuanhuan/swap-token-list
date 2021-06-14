@@ -111,6 +111,14 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x1E4F97b9f9F913c46F1632781732927B9019C68b.png"
     },
     {
+      "name": "Shadow Token",
+      "address": "0x4E8348FDd1B6619a95334Fe08a82872047154Cb3",
+      "symbol": "SHADOW",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x4E8348FDd1B6619a95334Fe08a82872047154Cb3.png"
+    },
+    {
       "name": "Band",
       "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5",
       "symbol": "BAND",

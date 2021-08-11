@@ -269,6 +269,13 @@
       "decimals": 8,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0xc3fEd6eB39178A541D274e6Fc748d48f0Ca01CC3.png"
+    },{
+      "name": "Boo",
+      "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+      "symbol": "BOO",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE.png"
     }
   ]
 }

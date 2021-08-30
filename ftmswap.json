@@ -285,8 +285,7 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE.png"
-    }
-    ,
+    },
     {
       "name": "Wild",
       "address": "0xAe0C241Ec740309c2cbdc27456eB3C1a2aD74737",
@@ -294,6 +293,14 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0xAe0C241Ec740309c2cbdc27456eB3C1a2aD74737.png"
+    },
+    {
+      "name": "Strange Brew",
+      "address": "0x3853F3839ca1655AcC8c433EEF8C086F9895d0BF",
+      "symbol": "SBRW",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x3853F3839ca1655AcC8c433EEF8C086F9895d0BF.png"
     }
   ]
 }

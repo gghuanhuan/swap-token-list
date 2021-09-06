@@ -301,6 +301,14 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x3853F3839ca1655AcC8c433EEF8C086F9895d0BF.png"
+    },
+    {
+      "name": "Synfin",
+      "address": "0x1BCF4DC879979C68fA255f731FE8Dcf71970c9bC",
+      "symbol": "SYF",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x1BCF4DC879979C68fA255f731FE8Dcf71970c9bC.png"
     }
   ]
 }

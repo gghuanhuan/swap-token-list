@@ -317,6 +317,14 @@
       "decimals": 0,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.png"
+    },
+    {
+      "name": "Scream",
+      "address": "0x6D494E0C2717998D7DAE88E644Fb80F8dC94483d",
+      "symbol": "SCREAM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x6D494E0C2717998D7DAE88E644Fb80F8dC94483d.png"
     }
   ]
 }

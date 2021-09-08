@@ -309,6 +309,14 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x1BCF4DC879979C68fA255f731FE8Dcf71970c9bC.png"
+    },
+    {
+      "name": "Atari Token",
+      "address": "0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b",
+      "symbol": "ATARI",
+      "decimals": 0,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x818ec0A7Fe18Ff94269904fCED6AE3DaE6d6dC0b.png"
     }
   ]
 }

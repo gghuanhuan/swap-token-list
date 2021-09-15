@@ -48,8 +48,15 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
     },
     {
-      "name": "USDT",
+      "name": "BAKE",
       "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png"
+    },
+    {
+      "name": "BUSD",
+      "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
       "decimals": 18,
       "chainId": 97,
       "logoURI": "https://tokens.hyperswap.fi/images/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png"

@@ -325,6 +325,14 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x6D494E0C2717998D7DAE88E644Fb80F8dC94483d.png"
-    }
+    },
+    {
+      "name": "Bolt Dollar",
+      "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
+      "symbol": "BTD",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0xD1102332a213E21faF78B69C03572031F3552c33.png"
+    },
   ]
 }

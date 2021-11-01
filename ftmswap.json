@@ -14,7 +14,7 @@
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
     },
-     {
+    {
       "name": "HyperJump",
       "address": "0x78DE9326792ce1d6eCA0c978753c6953Cdeedd73",
       "symbol": "JUMP",

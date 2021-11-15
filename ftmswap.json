@@ -341,6 +341,15 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0xD1102332a213E21faF78B69C03572031F3552c33.png"
+    },
+    {
+      "name": "Magic Internet Money",
+      "address": "0x82f0B8B456c1A451378467398982d4834b6829c1",
+      "symbol": "MIM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x82f0B8B456c1A451378467398982d4834b6829c1.png"
     }
+
   ]
 }

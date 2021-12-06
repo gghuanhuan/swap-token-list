@@ -350,14 +350,5 @@
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x82f0B8B456c1A451378467398982d4834b6829c1.png"
     },
-    {
-      "name": "Avalanche",
-      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
-      "symbol": "AVAX",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x1CE0c2827e2eF14D5C4f29a091d735A204794041.png"
-    }
-
   ]
 }
